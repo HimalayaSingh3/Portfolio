@@ -3,32 +3,25 @@ import ProjectCard from "../sub/ProjectCard";
 
 const projectData = [
   {
-    src: "/FigmaClone.png",
-    title: "AI Saas BG Removal",
-    description: "Figma Clone using Next.js 14, Tailwind CSS, Liveblocks, Fabric",
+    src: "/blog.png",
+    title: "Blog App",
+    description: "Blog App using React, Tailwind CSS, Django",
     link: "https://github.com/HimalayaSingh3/AI-Saas-BG-Removal",
     live: "https://your-figma-clone-live.com",
   },
   {
-    src: "/TravelWebsite.png",
+    src: "/calc.png",
+    title: "AI Calculator",
+    description: "AI Calculator using React, Tailwind CSS, Gemini, Django",
+    link: "https://github.com/HimalayaSingh3/AI-Saas-BG-Removal",
+    live: "https://your-figma-clone-live.com",
+  },
+  {
+    src: "/podcast.png",
     title: "Podcaster App",
-    description: "Travel Website Using Next.js 14, Tailwind CSS, TypeScript",
+    description: "Podcaster App Using React, Tailwind CSS, Node Js, Express Js, MongoDb",
     link: "https://github.com/HimalayaSingh3/MERN-Stack-Podcaster-App",
     live: "https://your-podcaster-app.com",
-  },
-  {
-    src: "/YoutubeClone.png",
-    title: "AI Saas Form Builder",
-    description: "YouTube Clone Using React, Tailwind CSS, TypeScript",
-    link: "https://github.com/HimalayaSingh3/AI-Saas-Form-Builder",
-    live: "https://your-form-builder.com",
-  },
-  {
-    src: "/YoutubeClone.png",
-    title: "Phonify App",
-    description: "Music Streaming App using React, Tailwind CSS, TypeScript",
-    link: "https://github.com/HimalayaSingh3/Phonify-App",
-    live: "https://your-phonify-app.com",
   },
 ];
 
