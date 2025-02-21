@@ -23,6 +23,13 @@ const projectData = [
     link: "https://github.com/HimalayaSingh3/MERN-Stack-Podcaster-App",
     live: "https://your-podcaster-app.com",
   },
+  {
+    src: "/phone.png",
+    title: "PhoniFy App",
+    description: "Phonify App Using React, Tailwind CSS, Django, Sqlite",
+    link: "https://github.com/HimalayaSingh3/MERN-Stack-Podcaster-App",
+    live: "https://your-podcaster-app.com",
+  },
 ];
 
 const Projects = () => {
