@@ -30,6 +30,23 @@ const projectData = [
     link: "https://github.com/HimalayaSingh3/MERN-Stack-Podcaster-App",
     live: "https://your-podcaster-app.com",
   },
+  {
+    src: "/recipe.png",
+    title: "Recipe Book",
+    description: "Blog App using React, Tailwind CSS, Django",
+    link: "https://github.com/HimalayaSingh3/AI-Saas-BG-Removal",
+    live: "https://your-figma-clone-live.com",
+  },
+  {
+    src: "/student.png",
+    title: "Student Management App",
+    description: "Blog App using React, Tailwind CSS, Django",
+    link: "https://github.com/HimalayaSingh3/AI-Saas-BG-Removal",
+    live: "https://your-figma-clone-live.com",
+  },
+
+
+
 ];
 
 const Projects = () => {
