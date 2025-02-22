@@ -38,7 +38,7 @@ const projectData = [
     live: "https://your-figma-clone-live.com",
   },
   {
-    src: "/student.png",
+    src: "/student.jpg",
     title: "Student Management App",
     description: "Blog App using React, Tailwind CSS, Django",
     link: "https://github.com/HimalayaSingh3/AI-Saas-BG-Removal",
