@@ -10,7 +10,7 @@ const projectData = [
     live: "#",
   },
   {
-    src: "/phonk.png",
+    src: "/Phonk.png",
     title: "Phonk App",
     description: "AI Calculator using React, Tailwind CSS, Node, Express",
     link: "https://github.com/HimalayaSingh3/MERN-Stack-Phonk-App.git",
