@@ -5,14 +5,14 @@ const projectData = [
   {
     src: "/ecomm.jpg",
     title: "E-Commerce App",
-    description: "Blog App using React, Tailwind CSS, Node, Express, Redux, Chart",
+    description: "E-Commerce App using React, Tailwind CSS, Node, Express, Redux, Chart, MongoDb",
     link: "https://github.com/HimalayaSingh3/Full-Stack-e-Commerce.git",
     live: "#",
   },
   {
     src: "/Phonk.png",
     title: "Phonk App",
-    description: "AI Calculator using React, Tailwind CSS, Node, Express",
+    description: "Phonk App using React, Tailwind CSS, Node, Express, MongoDb",
     link: "https://github.com/HimalayaSingh3/MERN-Stack-Phonk-App.git",
     live: "https://phonk-app.vercel.app/",
   },
