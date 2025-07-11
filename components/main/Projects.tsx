@@ -7,7 +7,7 @@ const projectData = [
     title: "E-Commerce App",
     description: "Blog App using React, Tailwind CSS, Node, Express, Redux, Chart",
     link: "https://github.com/HimalayaSingh3/Full-Stack-e-Commerce.git",
-    live: "#",
+    live: "https://full-stack-e-commerce-x3de.vercel.app/",
   },
   {
     src: "/phonk.png",
@@ -16,13 +16,7 @@ const projectData = [
     link: "https://github.com/HimalayaSingh3/MERN-Stack-Phonk-App.git",
     live: "https://phonk-app.vercel.app/",
   },
-  {
-    src: "/podcast.png",
-    title: "Podcaster App",
-    description: "Podcaster App Using React, Tailwind CSS, Redux, Node Js, Express Js, MongoDb",
-    link: "https://github.com/HimalayaSingh3/MERN-Stack-Podcaster-App",
-    live: "#",
-  },
+  
   {
     src: "/phone.png",
     title: "PhoniFy App",

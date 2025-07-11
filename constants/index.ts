@@ -106,12 +106,6 @@ export const Backend_skill = [
     height: 40,
   },
   {
-    skill_name: "Django",
-    Image: "/django.png",
-    width: 80,
-    height: 80,
-  },
-  {
     skill_name: "Postgre SQL",
     Image: "/postger.png",
     width: 70,
